@@ -2,81 +2,88 @@
 <items version="2" >
 
     <item
-        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-ce6ba957e09c9479d0678a2ee732f1bd81e13777.jar" />
-    </item>
-    <item
-        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-c441fb3c7b291049f7c08ccda0886be30371e459.jar" />
-    </item>
-    <item
-        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d1c638d1bd8bcc4de2a0f142f3a644cd5d9edede.jar" />
-    </item>
-    <item
-        jar="/Users/hankarun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-6cd112f7beac294a60d6809daf086ea1be6c113f.jar" />
-    </item>
-    <item
         jar="/Users/hankarun/Desktop/xyzreader/XYZReader/libs/volley.jar"
         jumboMode="false"
-        revision="22.0.1"
+        revision="23.0.1"
         sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
         <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-f5822735fa01bfa8d27b75c95f7f5f3f1a1c3458.jar" />
     </item>
     <item
-        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jar="/Users/hankarun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-dc5df43f0e302fce1fbe7f7de60031b6175e1543.jar" />
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-1b43f50bd251cd9529a04b62c16427bca7984d82.jar" />
     </item>
     <item
-        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-d90c14743b0c8bc9e1b9c5f76148ee494a038130.jar" />
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-1a970cff4fc92c8b32a1064b0e3686857a869966.jar" />
     </item>
     <item
-        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-195e5882a656c08654efc72b8dd14aefc63de490.jar" />
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-8df1f788c5f125317ead919b7700cb6f84776c94.jar" />
+    </item>
+    <item
+        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-0c7fdda56b88e5057cf0ca2f5f7e1bef6aa1fb03.jar" />
+    </item>
+    <item
+        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-81e0bff0b0ad1011073682e1e676c95561517a67.jar" />
+    </item>
+    <item
+        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-f7c1b51665feb08a283a41d082e23cebe3b86de2.jar" />
+    </item>
+    <item
+        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-1ca03f715531fcd2ea6caadf3fe03ed71e7a6160.jar" />
+    </item>
+    <item
+        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-d87d878c92a4bae028dc8ddd6e9b713275f87769.jar" />
+    </item>
+    <item
+        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-83277259fbe805dca10237bbc3a4e307ee880632.jar" />
     </item>
     <item
         jar="/Users/hankarun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
         jumboMode="false"
-        revision="22.0.1"
+        revision="23.0.1"
         sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
         <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-d507f856e8dca50cea9de2a55ecd146f6a7a53e6.jar" />
     </item>
     <item
-        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-f46ec3ac3831784deea76f505ff8a55cc6966a2b.jar" />
-    </item>
-    <item
-        jar="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-ea604aa9c8ad7d14b64aaa1b0bae9e34fee8d1be.jar" />
+        revision="23.0.1"
+        sha1="a527cd5d9aa10f1a387cbd1c4c426fff5022a376">
+        <dex dex="/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-22ab1cdc630c933dc0a9ce5fcd6081b026563378.jar" />
     </item>
 
 </items>
