@@ -38,4 +38,9 @@
     <style name="AppTheme" parent="AppBaseTheme">
     </style>
 
+    <style name="ActionBarText"
+        parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:background">@color/my_accent</item>
+    </style>
+
 </resources>

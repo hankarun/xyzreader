@@ -82,6 +82,7 @@ public class ArticleListActivity extends ActionBarActivity implements
     private void setupToolbar(){
         CollapsingToolbarLayout collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.collapsingToolbarLayout);
         collapsingToolbarLayout.setTitle("XYZ Reader");
+        collapsingToolbarLayout.setCollapsedTitleTextAppearance(R.style.ActionBarText);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);

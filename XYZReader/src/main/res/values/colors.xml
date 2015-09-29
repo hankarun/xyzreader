@@ -23,7 +23,7 @@
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
 
-    <color name="window_background">#CC000000</color>
+    <color name="window_background">#ffe0e0e0</color>
 
     <color name="my_primary">#ED1C24</color>
     <color name="my_primary_dark">#CC0000</color>
