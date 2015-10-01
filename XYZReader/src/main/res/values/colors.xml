@@ -33,4 +33,5 @@
     <color name="my_secondary_text">#ffffff</color>
     <color name="my_icons">#FFFFFF</color>
     <color name="my_divider">#B6B6B6</color>
+    <color name="text_color">#6000</color>
 </resources>

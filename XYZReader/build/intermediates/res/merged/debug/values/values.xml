@@ -115,6 +115,7 @@
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <!-- From: file:/Users/hankarun/Desktop/xyzreader/XYZReader/src/main/res/values/colors.xml -->
     <eat-comment/>
+    <color name="text_color">#6000</color>
     <color name="theme_accent">#04561A</color>
     <color name="theme_primary">#04561A</color>
     <color name="theme_primary_dark">#04561A</color>
@@ -309,6 +310,11 @@
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
+    <!-- From: file:/Users/hankarun/Desktop/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_item">16dp</dimen>
+    <!-- From: file:/Users/hankarun/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <!-- From: file:/Users/hankarun/Desktop/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
     <eat-comment/>
